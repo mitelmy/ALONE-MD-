@@ -2,6 +2,26 @@
 
 NEW BOT WA ALONE-MD 🌹
 
+# _[Update My Repo](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki/FORK-UPDATE)_
+</div>
+  <a href="https://x-bot-md-qr.koyeb.app">
+        <p align="center">
+   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
+              </p>
+  </a>
+</p>
+   
+<p align="center">
+
+  <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  
+<p align="center">
+  
+<div align="center">
+
 1. Click on **[Fork](https://github.com/Aloneboytech/ALONE-MD-)** to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
