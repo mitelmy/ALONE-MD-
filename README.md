@@ -1,4 +1,4 @@
-# Zokou-2.0 🚀
+# ALONE-MD 
 
 
 ## How to Get ALONE-MD 
@@ -7,8 +7,8 @@
 
 2. Obtain a bot session: 
 
-- [Session-1](https://zkscan.onrender.com)  
-- [Session-2](https://zokouscan-din3.onrender.com)
+- [Session-1](https://alone-md-session.onrender.com)  
+- [Session-2](https://alone-md-session.onrender.com)
 
 - **Render Deployment:**
 1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
