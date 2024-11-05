@@ -7,8 +7,8 @@
 
 2. Obtain a bot session: 
 
-- [Session-1](https://alone-md-session.onrender.com)  
-- [Session-2](https://alone-md-session.onrender.com)
+- [Session-1](https://alone-md-session-bot.onrender.com)  
+- [Session-2](https://alone-md-session-bot.onrender.com)
 
 - **Render Deployment:**
 1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
