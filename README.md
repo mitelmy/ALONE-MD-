@@ -6,6 +6,10 @@ NEW BOT WA ALONE-MD 🌹
 </div>
   <a href="https://x-bot-md-qr.koyeb.app">
         <p align="center">
+   <img alt="ASWIN SPARKY" height="300" src="# _[Update My Repo](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki/FORK-UPDATE)_
+</div>
+  <a href="https://x-bot-md-qr.koyeb.app">
+        <p align="center">
    <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
               </p>
   </a>
@@ -14,6 +18,20 @@ NEW BOT WA ALONE-MD 🌹
 <p align="center">
 
   <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  
+<p align="center">
+  
+<div align="center">">
+              </p>
+  </a>
+</p>
+   
+<p align="center">
+
+  <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029VapPYSCHQbS1HWZr0y07" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
