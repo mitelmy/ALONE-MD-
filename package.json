@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "ALONE Md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "Fedora",
     "FaouzKK"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "alone boy tech",
   "license": "ISC",
   "dependencies": {
     "@faouzkk/lyrics-finder": "^1.0.3",
