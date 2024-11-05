@@ -1,5 +1,3 @@
-<p align="center"><h1>https://github.com/user-attachments/assets/d98c3b3c-f48e-497f-a083-5c3854085b7e </h1><br> </p>
-
 # ALONE-MD 
 
 NEW BOT WA ALONE-MD 🌹
