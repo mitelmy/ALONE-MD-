@@ -10,8 +10,9 @@
 
 2. Obtain a bot session: 
 
-- [Session-1](https://alone-md-session-bot.onrender.com)  
-- [Session-2](https://alone-md-session-bot.onrender.com)
+<a href='https://alone-md-session-bot.onrender.com' target="_blank">
+    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
+</a>
 
 - **Render Deployment:**
 1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
