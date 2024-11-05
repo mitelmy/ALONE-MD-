@@ -8,8 +8,8 @@ RUN apt-get update && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Luffy2ndAccount/Zokou-english-v  /root/Zokou_BOt
-WORKDIR /root/Zokou_Bot/
+RUN git clone https://AloneboytechAccount/ALONE-MD  /root/alone_BOt
+WORKDIR /root/Alone_bot/
 
 
 COPY package.json .
