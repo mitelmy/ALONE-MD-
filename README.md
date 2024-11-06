@@ -5,8 +5,10 @@
 
 ## How to Get ALONE-MD 
 
-1. Click on **[Fork]<br> 
+1. Click on [Fork repo ]<br> 
 <a href="https://github.com/Aloneboytech/ALONE-MD-/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+
 ** to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
