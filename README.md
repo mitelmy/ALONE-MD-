@@ -13,12 +13,12 @@
 
 2. Obtain a bot session: 
 
-<a href='https://alone-md-session-bot.onrender.com' target="_blank">
+<a href='https://alone-md-q9gg.onrender.com' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
 ##
-<a href='https://alone-md-session-bot.onrender.com' target="_blank">
+<a href='https://alone-md-q9gg.onrender.com' target="_blank">
     <img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
