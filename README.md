@@ -100,6 +100,6 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 14520s npm run zokou
+        timeout 14520s npm run alone
 
  ```
