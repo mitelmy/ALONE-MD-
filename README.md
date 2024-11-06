@@ -26,7 +26,7 @@
 1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
 2. Create a new web service.  
 3. Choose **Public Git Repository**.  
-4. In the field, enter `https://gitlab.com/bankai421341/zabimaru.git`.
+4. In the field, enter `https://github.com/Aloneboytech/ALONE-MD-`.
 5. Click **Connect**.  
 6. Select the **Free Plan** if you don’t want to pay.
 7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
