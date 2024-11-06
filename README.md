@@ -19,7 +19,7 @@
 
 ##
 <a href='https://alone-md-q9gg.onrender.com' target="_blank">
-    <img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
+    <img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=Blue&color=Blue'/>
 </a>
 
 - **Render Deployment:**
